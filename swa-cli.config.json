@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure/static-web-apps-cli/schema",
+  "configurations": {
+    "my-awesome-site": {
+      "appLocation": "app",
+      "apiLocation": "api",
+      "outputLocation": ".",
+      "appName": "my-awesome-site",
+      "resourceGroupName": "my-awesome-site-rg"
+    }
+  }
+}
